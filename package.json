@@ -23,7 +23,6 @@
   "homepage": "https://github.com/appleboy/laravel-elixir-cssfmt#readme",
   "dependencies": {
     "gulp": "^3.9.0",
-    "gulp-cssfmt": "^1.0.0",
-    "laravel-elixir": "^4.1.0"
+    "gulp-cssfmt": "^1.0.0"
   }
 }
