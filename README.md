@@ -10,7 +10,7 @@ $ npm install --save-dev laravel-elixir-cssfmt
 
 ### Usage
 
-```
+```javascript
 var elixir = require('laravel-elixir');
 
 require('laravel-elixir-cssfmt');
