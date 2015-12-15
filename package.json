@@ -1,0 +1,29 @@
+{
+  "name": "laravel-elixir-cssfmt",
+  "version": "1.0.0",
+  "description": "Laravel Elixir CSSfmt Extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appleboy/laravel-elixir-cssfmt.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "cssfmt"
+  ],
+  "author": "Bo-Yi Wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appleboy/laravel-elixir-cssfmt/issues"
+  },
+  "homepage": "https://github.com/appleboy/laravel-elixir-cssfmt#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-cssfmt": "^1.0.0",
+    "laravel-elixir": "^4.1.0"
+  }
+}
