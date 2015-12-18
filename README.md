@@ -16,7 +16,7 @@ var elixir = require('laravel-elixir');
 require('laravel-elixir-cssfmt');
 
 elixir(function(mix) {
-   mix.cssfmt('resources/assets/sass/src/**/*', 'resources/assets/sass/dest');
+   mix.cssfmt('resources/assets/sass/src/**/*', 'resources/assets/sass/dist');
 });
 ```
 
